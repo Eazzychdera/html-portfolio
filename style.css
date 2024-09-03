@@ -1,0 +1,203 @@
+
+header{
+    background-color: tomato;
+
+}
+#home{
+    background-color: tomato;
+    margin-top: -100px;
+    margin-bottom: 50px;
+    height: 450px;
+      
+}
+
+ nav img{
+    width: 40px;
+    margin: 15px;
+}
+
+
+.cookieFudi{
+    display: flex;
+
+}
+
+nav{
+    position: relative;
+display: flex;
+;
+background-color:tomato;
+
+
+
+}
+
+
+
+ul{
+    display: flex;
+    margin-left: 350px;
+    align-items: center;
+    position:relative;
+    
+}
+nav ul li{
+    flex: 1 0 200px;
+    margin: 30px;
+    text-decoration: none;
+    display: inline;
+    color: whitesmoke
+
+}
+hr{
+    color: aliceblue;
+}
+
+h3{
+    margin-top: 100px
+    
+}
+
+h3 p{
+   color:white; 
+   margin-left: 10px;
+   margin-top: 0px;
+}
+}
+
+p{
+    color: whitesmoke;
+    
+    
+}
+
+button{
+    width: 90px;
+    height: 25px;
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: 2px;
+    font-size: 5px;
+    gap: 8spx;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+    
+}
+
+.btn .order{
+    background-color: black;
+    border: none;
+color: tomato;   
+}
+
+    .btn .book{
+        background-color: tomato;
+        border-color: whitesmoke ;
+        border-left: white;
+        border-top: white;
+        color: white;
+    }
+    
+    .home img{
+        display: flex;
+        float: right;
+        border-radius: 50%;
+        
+    }
+
+    .aboutus{
+        background-color: white;
+        display: flex;
+        color: black; 
+    }
+
+    .aboutus img{
+        padding: 30px;
+        height: 110px;
+        width: 200;
+        float: right;
+        margin-left: 25%;
+        
+    }
+    .aboutus p{
+ 
+
+    }
+
+
+    #About{
+        margin-left: 30px;
+        align-items: center;
+    }
+
+    #About h2{
+        text-decoration: underline ;
+    }
+
+
+
+    #foodies{
+
+        color: white;
+        background-color: black;
+
+    }
+
+    #foodies h2{
+        text-align: center;
+
+    }
+
+    .container{
+        display: flex;
+
+    }
+
+    .container h4 {text-align: center;
+        margin-top: -30px;
+    }
+
+    .container p {text-align: center;
+        margin-top: -8px;
+    }
+
+
+    .container img{
+        width: 250px;
+        margin: 75px;
+
+        
+        
+    }
+
+
+    #container{
+        display: flex
+    }
+
+    #container img{
+        width: 250px;
+        margin: 75px;
+
+    }
+    #container h4 {text-align: center;
+        margin-top: -30px;
+    }
+
+    #container p {text-align: center;
+        margin-top: -8px;
+    }
+
+
+
+
+
+
+
+    .containerb{
+background-color: red;
+width: 500px;
+height: 500px;;
+clip-path: circle(50%);
+    }
